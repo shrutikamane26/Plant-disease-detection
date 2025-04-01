@@ -6,6 +6,5 @@ matplotlib
 Pillow
 scikit-learn
 gunicorn
-shutil
 werkzeug
 opencv-python
